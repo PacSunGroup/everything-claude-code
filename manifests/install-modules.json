@@ -273,7 +273,9 @@
         "skills/content-engine",
         "skills/investor-materials",
         "skills/investor-outreach",
-        "skills/market-research"
+        "skills/lead-intelligence",
+        "skills/market-research",
+        "skills/social-graph-ranker"
       ],
       "targets": [
         "claude",
