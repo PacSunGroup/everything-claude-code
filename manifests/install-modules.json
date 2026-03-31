@@ -84,6 +84,7 @@
         ".claude-plugin",
         ".codex",
         ".cursor",
+        ".gemini",
         ".opencode",
         "mcp-configs",
         "scripts/setup-package-manager.js"
@@ -93,6 +94,7 @@
         "cursor",
         "antigravity",
         "codex",
+        "gemini",
         "opencode"
       ],
       "dependencies": [],
@@ -273,6 +275,7 @@
         "skills/content-engine",
         "skills/investor-materials",
         "skills/investor-outreach",
+        "skills/lead-intelligence",
         "skills/market-research"
       ],
       "targets": [
@@ -394,6 +397,7 @@
       "paths": [
         "skills/agent-harness-construction",
         "skills/agentic-engineering",
+        "skills/autonomous-agent-harness",
         "skills/ai-first-engineering",
         "skills/autonomous-loops",
         "skills/blueprint",
